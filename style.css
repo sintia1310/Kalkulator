@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.calculator {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input {
+  width: 100px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#output {
+  margin-top: 20px;
+}
+
